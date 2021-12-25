@@ -1,4 +1,4 @@
-# Manipulating_Plotting_1DArrays
+# Manipulating Plotting 1DArrays
 - **Neuroscience / Neuroimaging concepts**
     - Types of fMRI Data Arrays
 - **Datascience / Coding concepts**
