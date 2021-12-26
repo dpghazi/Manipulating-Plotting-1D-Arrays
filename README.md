@@ -1,7 +1,7 @@
 # Manipulating Plotting 1DArrays
-- **Neuroscience / Neuroimaging concepts**
+- **Neuroscience / Neuroimaging Concepts**
     - Types of fMRI Data Arrays
-- **Datascience / Coding concepts**
+- **Data Science / Coding Concepts**
     - Time series data
     - 1D arrays as voxel time series data
     - Subsetting 1D arrays: Slicing and Indexing
